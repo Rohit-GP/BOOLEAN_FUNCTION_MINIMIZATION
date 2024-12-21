@@ -18,6 +18,13 @@ Hardware – PCs, Cyclone II , USB flasher
 
 Boolean Algebra is a branch of algebra that deals with boolean values—true and false. It is fundamental to digital logic design and computer science, providing a mathematical framework for describing logical operations and expressions
 
+**Truth Table**
+
+![SharedScreenshot](https://github.com/user-attachments/assets/b41e2fdb-e65d-4b22-86be-4600386939bd)
+
+![SharedScreenshot](https://github.com/user-attachments/assets/b3c020d3-69bd-488e-ba0a-59ebb5eaea5c)
+
+
 **Procedure**
 
 1.	Type the program in Quartus software.
